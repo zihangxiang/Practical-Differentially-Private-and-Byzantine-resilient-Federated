@@ -52,7 +52,7 @@ else:
     raise ValueError('Dataset not specified...')
 
 pub_data_size = dms.num_of_classes * 2
-pub_data_batch_size = dms.num_of_classes 
+pub_data_batch_size = pub_data_size
 local_data_batch_size = 16
 the_momentum = 0.1
 batchsize_train = num_workers * local_data_batch_size
