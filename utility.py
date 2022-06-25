@@ -435,8 +435,8 @@ def train(model, loss_metric, loaders, optimizer, scheduler, device, total_epoch
                                         )
 
     for epoch in range(total_epoch):
-        if epoch > 0:
-            break
+        # if epoch > 0:
+        #     break
         logger.write_log(f'\n\nEpoch: {epoch}'.ljust(11) + '#' * 70)
 
         '''training'''
