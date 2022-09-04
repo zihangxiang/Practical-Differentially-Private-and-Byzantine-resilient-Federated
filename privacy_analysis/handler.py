@@ -1,4 +1,3 @@
-#Zihang xiang
 import torch
 from torch.utils.data import DataLoader, Dataset, random_split
 from torch.utils.data.sampler import RandomSampler
