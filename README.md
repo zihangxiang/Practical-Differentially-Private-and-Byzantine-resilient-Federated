@@ -1,4 +1,3 @@
-Practical Byzantine-Resilient and Differentially Private Federated Learning
 ================
 
 ### To reproduce:
