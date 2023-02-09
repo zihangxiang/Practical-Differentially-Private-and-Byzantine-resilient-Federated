@@ -1,4 +1,6 @@
 ================
+### full version pdf:
+our full version paper (including appendix) can be found at file "full_version_.pdf"
 
 ### To reproduce:
 
