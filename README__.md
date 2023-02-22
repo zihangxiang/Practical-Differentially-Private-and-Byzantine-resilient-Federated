@@ -1,6 +1,6 @@
 ================
 ### UPDATE
-accepted to SIFMOD 2023
+accepted to SIGMOD 2023
 ### full version pdf:
 our full version paper (including appendix) can be found at file "full_version_.pdf"
 
