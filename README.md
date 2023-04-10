@@ -1,15 +1,14 @@
-================
-### UPDATE
-accepted to SIGMOD 2023
-### full version pdf:
-our full version paper (including appendix) can be found at file "full_version_.pdf"
+# Practical Differentially Private and Byzantine-resilient Federated
 
-### To reproduce:
+## 1. Running Environment
+Install all packages as specified in `requirements.txt`.
 
-1. install packages as described in "requirements.txt"
-2. open "\datasets\dataset_setup.py", edit function "get_dataset_data_path" to return the path you specified to store the dataset source file.
-3. open run.ipynb and run cooresponding command script
 
-### Our running results:
+## 2. To Reproduce
 
-1. all results are summarised in "logs_records" for reference
+> install packages as described in "requirements.txt"
+
+> open "\datasets\dataset_setup.py", edit function "get_dataset_data_path" to return the path you specified to store the dataset source file.
+
+> Play with the setups in script `*.sh`, then run it in a terminal.
+
