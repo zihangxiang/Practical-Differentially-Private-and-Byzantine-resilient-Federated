@@ -1,5 +1,5 @@
 # Practical Differentially Private and Byzantine-resilient Federated
-Full version paper (including appendix) can be found at "Full_version.pdf"
+Full version paper (including appendix) can be found at https://arxiv.org/abs/2304.09762
 
 ## 1. Running Environment
 Install all packages as specified in `requirements.txt`.
