@@ -11,5 +11,5 @@ Install all packages as specified in `requirements.txt`.
 
 > open "\datasets\dataset_setup.py", edit function "get_dataset_data_path" to return the path you specified to store the dataset source file.
 
-> Play with the setups in script `*.sh`, then run it in a terminal.
+> Check the setups in script `*.sh`, then run it in a terminal.
 
