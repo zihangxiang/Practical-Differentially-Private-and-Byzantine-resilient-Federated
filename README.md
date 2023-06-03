@@ -7,9 +7,9 @@ Install all packages as specified in `requirements.txt`.
 
 ## 2. To Reproduce
 
-> install packages as described in "requirements.txt"
+> Install packages as described in "requirements.txt"
 
-> open "\datasets\dataset_setup.py", edit function "get_dataset_data_path" to return the path you specified to store the dataset source file.
+> Open "\datasets\dataset_setup.py", edit function "get_dataset_data_path" to return the path you specified to store the dataset source file.
 
 > Check the setups in script `*.sh`, then run it in a terminal.
 
