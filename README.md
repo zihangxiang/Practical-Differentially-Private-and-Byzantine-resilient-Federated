@@ -1,4 +1,4 @@
-# Practical Differentially Private and Byzantine-resilient Federated
+# Practical Differentially Private and Byzantine-resilient Federated Learning
 Full version paper (including appendix) can be found at https://arxiv.org/abs/2304.09762
 
 ## 1. Running Environment
