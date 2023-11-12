@@ -1,0 +1,2490 @@
+
+[01_11_12_12] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.2
+       base_lr -> 0.2
+       epsilon -> 2.0
+       delta -> 0.00014970842696039103
+       std -> 0.7920307563781739
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 1
+0,73.07%,NAN,91.68%
+1,92.71%,NAN,94.70%
+2,94.17%,NAN,95.20%
+3,94.74%,NAN,95.73%
+4,95.21%,NAN,95.96%
+5,95.39%,NAN,95.98%
+6,95.64%,NAN,96.25%
+7,95.74%,NAN,96.26%
+
+[01_11_13_18] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.20000000000000004
+       base_lr -> 0.2
+       epsilon -> 2.0
+       delta -> 0.0011775148291071208
+       std -> 1.2208025146484376
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 1
+0,36.79%,NAN,54.14%
+1,59.68%,NAN,60.90%
+2,65.76%,NAN,62.41%
+3,71.32%,NAN,69.92%
+4,73.21%,NAN,70.43%
+5,73.21%,NAN,71.93%
+6,73.36%,NAN,72.68%
+7,76.24%,NAN,74.19%
+8,76.68%,NAN,74.94%
+9,77.71%,NAN,75.44%
+
+[01_11_14_31] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.2
+       base_lr -> 0.2
+       epsilon -> 2.0
+       delta -> 0.00014970842696039103
+       std -> 0.7920307563781739
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 1
+0,62.99%,NAN,72.32%
+1,75.20%,NAN,76.09%
+2,78.52%,NAN,77.71%
+3,80.00%,NAN,78.57%
+4,80.86%,NAN,79.23%
+5,81.21%,NAN,79.47%
+6,81.58%,NAN,79.78%
+7,81.72%,NAN,80.24%
+
+[01_11_15_24] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.2
+       base_lr -> 0.2
+       epsilon -> 2.0
+       delta -> 0.0007105421828459393
+       std -> 1.0804217254638673
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 1
+0,51.89%,NAN,67.66%
+1,79.56%,NAN,80.97%
+2,87.08%,NAN,84.01%
+3,89.68%,NAN,85.25%
+4,90.62%,NAN,85.55%
+5,91.12%,NAN,86.60%
+6,91.20%,NAN,87.14%
+7,91.68%,NAN,87.19%
+8,91.49%,NAN,86.75%
+9,91.90%,NAN,87.29%
+
+[01_11_15_57] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.2
+       base_lr -> 0.2
+       epsilon -> 2.0
+       delta -> 0.00014970842696039103
+       std -> 0.7920307563781739
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 2
+0,67.86%,NAN,89.38%
+1,91.85%,NAN,93.81%
+2,93.99%,NAN,95.06%
+3,94.69%,NAN,95.16%
+4,95.27%,NAN,95.70%
+5,95.54%,NAN,95.92%
+6,95.60%,NAN,96.03%
+7,95.52%,NAN,96.23%
+
+[01_11_17_03] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.20000000000000004
+       base_lr -> 0.2
+       epsilon -> 2.0
+       delta -> 0.0011775148291071208
+       std -> 1.2208025146484376
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 2
+0,39.41%,NAN,49.12%
+1,57.10%,NAN,61.40%
+2,63.11%,NAN,61.40%
+3,66.76%,NAN,65.91%
+4,68.97%,NAN,69.67%
+5,72.12%,NAN,70.43%
+6,73.49%,NAN,67.42%
+7,74.56%,NAN,71.43%
+8,76.43%,NAN,73.93%
+9,76.01%,NAN,70.93%
+
+[01_11_18_16] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.2
+       base_lr -> 0.2
+       epsilon -> 2.0
+       delta -> 0.00014970842696039103
+       std -> 0.7920307563781739
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 2
+0,63.18%,NAN,73.62%
+1,75.59%,NAN,76.35%
+2,77.83%,NAN,77.27%
+3,78.80%,NAN,78.35%
+4,79.63%,NAN,79.05%
+5,80.03%,NAN,79.12%
+6,80.61%,NAN,79.57%
+7,80.79%,NAN,79.85%
+
+[01_11_19_07] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.2
+       base_lr -> 0.2
+       epsilon -> 2.0
+       delta -> 0.0007105421828459393
+       std -> 1.0804217254638673
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 2
+0,52.18%,NAN,72.45%
+1,82.38%,NAN,82.06%
+2,87.40%,NAN,84.21%
+3,89.22%,NAN,84.75%
+4,90.59%,NAN,85.35%
+5,90.99%,NAN,87.39%
+6,91.28%,NAN,86.95%
+7,91.80%,NAN,86.90%
+8,92.25%,NAN,87.84%
+9,92.26%,NAN,87.19%
+
+[01_11_19_38] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.2
+       base_lr -> 0.2
+       epsilon -> 2.0
+       delta -> 0.00014970842696039103
+       std -> 0.7920307563781739
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 3
+0,68.02%,NAN,90.68%
+1,91.98%,NAN,94.03%
+2,93.59%,NAN,94.38%
+3,94.33%,NAN,95.01%
+4,94.74%,NAN,95.23%
+5,94.92%,NAN,95.70%
+6,95.30%,NAN,95.77%
+7,95.46%,NAN,95.88%
+
+[01_11_20_44] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.20000000000000004
+       base_lr -> 0.2
+       epsilon -> 2.0
+       delta -> 0.0011775148291071208
+       std -> 1.2208025146484376
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 3
+0,37.98%,NAN,60.90%
+1,59.85%,NAN,69.67%
+2,65.97%,NAN,68.67%
+3,71.13%,NAN,65.91%
+4,72.25%,NAN,69.42%
+5,72.37%,NAN,67.17%
+6,73.78%,NAN,68.92%
+7,74.64%,NAN,71.43%
+8,74.98%,NAN,72.43%
+9,75.71%,NAN,72.43%
+
+[01_11_21_56] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.2
+       base_lr -> 0.2
+       epsilon -> 2.0
+       delta -> 0.00014970842696039103
+       std -> 0.7920307563781739
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 3
+0,63.91%,NAN,73.64%
+1,75.71%,NAN,76.72%
+2,77.78%,NAN,78.01%
+3,79.16%,NAN,78.59%
+4,79.86%,NAN,79.36%
+5,80.38%,NAN,79.60%
+6,80.83%,NAN,80.02%
+7,81.20%,NAN,79.87%
+
+[01_11_22_47] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.2
+       base_lr -> 0.2
+       epsilon -> 2.0
+       delta -> 0.0007105421828459393
+       std -> 1.0804217254638673
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 3
+0,54.25%,NAN,73.84%
+1,82.09%,NAN,81.66%
+2,86.91%,NAN,84.16%
+3,89.77%,NAN,85.60%
+4,90.62%,NAN,86.15%
+5,91.23%,NAN,86.95%
+6,91.74%,NAN,87.00%
+7,92.42%,NAN,87.00%
+8,92.58%,NAN,86.90%
+9,92.73%,NAN,87.10%
+
+[01_11_23_18] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.15265162209536162
+       base_lr -> 0.2
+       epsilon -> 1.0
+       delta -> 0.00014970842696039103
+       std -> 1.0376971374511719
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 1
+0,67.77%,NAN,88.12%
+1,90.77%,NAN,93.89%
+2,93.34%,NAN,94.58%
+3,94.12%,NAN,95.24%
+4,94.65%,NAN,95.57%
+5,94.90%,NAN,95.56%
+6,95.18%,NAN,95.81%
+7,95.34%,NAN,95.99%
+
+[01_11_24_24] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.12820889816025852
+       base_lr -> 0.2
+       epsilon -> 1.0
+       delta -> 0.0011775148291071208
+       std -> 1.9043959228515626
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 1
+0,30.21%,NAN,44.11%
+1,50.53%,NAN,54.64%
+2,57.92%,NAN,58.15%
+3,63.76%,NAN,65.66%
+4,68.42%,NAN,68.92%
+5,71.07%,NAN,70.93%
+6,71.74%,NAN,68.92%
+7,73.05%,NAN,71.18%
+8,73.17%,NAN,71.93%
+9,73.28%,NAN,71.68%
+
+[01_11_25_37] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.1526516220953616
+       base_lr -> 0.2
+       epsilon -> 1.0
+       delta -> 0.00014970842696039103
+       std -> 1.0376971374511719
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 1
+0,60.36%,NAN,70.83%
+1,73.23%,NAN,74.45%
+2,76.72%,NAN,76.75%
+3,78.74%,NAN,77.66%
+4,79.86%,NAN,78.19%
+5,80.33%,NAN,78.48%
+6,80.55%,NAN,78.81%
+7,80.85%,NAN,79.27%
+
+[01_11_26_28] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.1320937036467005
+       base_lr -> 0.2
+       epsilon -> 1.0
+       delta -> 0.0007105421828459393
+       std -> 1.6358413696289065
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 1
+0,44.72%,NAN,60.84%
+1,71.76%,NAN,75.98%
+2,82.09%,NAN,80.52%
+3,85.81%,NAN,81.71%
+4,87.38%,NAN,83.21%
+5,88.64%,NAN,84.45%
+6,88.98%,NAN,85.25%
+7,89.32%,NAN,84.95%
+8,89.16%,NAN,85.00%
+9,89.77%,NAN,85.40%
+
+[01_11_26_59] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.15265162209536162
+       base_lr -> 0.2
+       epsilon -> 1.0
+       delta -> 0.00014970842696039103
+       std -> 1.0376971374511719
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 2
+0,61.47%,NAN,83.17%
+1,89.30%,NAN,92.30%
+2,92.79%,NAN,94.24%
+3,93.89%,NAN,94.42%
+4,94.49%,NAN,95.06%
+5,94.85%,NAN,95.18%
+6,94.85%,NAN,95.59%
+7,94.92%,NAN,95.76%
+
+[01_11_28_05] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.12820889816025852
+       base_lr -> 0.2
+       epsilon -> 1.0
+       delta -> 0.0011775148291071208
+       std -> 1.9043959228515626
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 2
+0,33.51%,NAN,43.36%
+1,50.44%,NAN,54.64%
+2,53.91%,NAN,50.88%
+3,60.84%,NAN,58.40%
+4,64.22%,NAN,65.16%
+5,67.98%,NAN,65.91%
+6,67.92%,NAN,64.16%
+7,70.55%,NAN,66.67%
+8,73.70%,NAN,65.91%
+9,72.92%,NAN,69.17%
+
+[01_11_29_17] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.1526516220953616
+       base_lr -> 0.2
+       epsilon -> 1.0
+       delta -> 0.00014970842696039103
+       std -> 1.0376971374511719
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 2
+0,60.40%,NAN,72.06%
+1,73.96%,NAN,75.09%
+2,76.37%,NAN,76.06%
+3,77.31%,NAN,77.10%
+4,78.37%,NAN,77.62%
+5,79.02%,NAN,78.32%
+6,79.64%,NAN,78.53%
+7,79.82%,NAN,78.84%
+
+[01_11_30_07] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.1320937036467005
+       base_lr -> 0.2
+       epsilon -> 1.0
+       delta -> 0.0007105421828459393
+       std -> 1.6358413696289065
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 2
+0,44.68%,NAN,61.88%
+1,72.43%,NAN,76.23%
+2,82.24%,NAN,81.51%
+3,86.63%,NAN,82.56%
+4,88.67%,NAN,82.91%
+5,89.32%,NAN,84.65%
+6,89.24%,NAN,84.75%
+7,90.05%,NAN,85.10%
+8,90.47%,NAN,86.25%
+9,90.31%,NAN,85.35%
+
+[01_11_30_38] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.15265162209536162
+       base_lr -> 0.2
+       epsilon -> 1.0
+       delta -> 0.00014970842696039103
+       std -> 1.0376971374511719
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 3
+0,61.44%,NAN,87.55%
+1,90.12%,NAN,92.93%
+2,92.60%,NAN,93.72%
+3,93.52%,NAN,94.53%
+4,94.11%,NAN,94.63%
+5,94.47%,NAN,94.98%
+6,94.58%,NAN,95.13%
+7,94.82%,NAN,95.40%
+
+[01_11_31_46] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.12820889816025852
+       base_lr -> 0.2
+       epsilon -> 1.0
+       delta -> 0.0011775148291071208
+       std -> 1.9043959228515626
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 3
+0,32.14%,NAN,44.86%
+1,50.06%,NAN,58.15%
+2,57.29%,NAN,64.16%
+3,66.68%,NAN,61.40%
+4,68.59%,NAN,68.92%
+5,71.72%,NAN,64.41%
+6,71.34%,NAN,68.17%
+7,72.16%,NAN,67.42%
+8,72.39%,NAN,67.67%
+9,72.88%,NAN,68.67%
+
+[01_11_32_59] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.1526516220953616
+       base_lr -> 0.2
+       epsilon -> 1.0
+       delta -> 0.00014970842696039103
+       std -> 1.0376971374511719
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 3
+0,61.19%,NAN,72.34%
+1,74.29%,NAN,75.48%
+2,76.55%,NAN,76.67%
+3,77.75%,NAN,77.53%
+4,78.64%,NAN,78.10%
+5,79.33%,NAN,78.71%
+6,79.74%,NAN,79.22%
+7,80.17%,NAN,79.00%
+
+[01_11_33_48] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.1320937036467005
+       base_lr -> 0.2
+       epsilon -> 1.0
+       delta -> 0.0007105421828459393
+       std -> 1.6358413696289065
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 3
+0,46.68%,NAN,66.12%
+1,75.58%,NAN,78.48%
+2,83.48%,NAN,80.92%
+3,86.80%,NAN,82.91%
+4,88.17%,NAN,83.71%
+5,88.99%,NAN,84.55%
+6,89.53%,NAN,85.20%
+7,90.27%,NAN,84.55%
+8,90.43%,NAN,84.55%
+9,90.48%,NAN,85.45%
+
+[01_11_34_21] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.10464339646521563
+       base_lr -> 0.2
+       epsilon -> 0.5
+       delta -> 0.00014970842696039103
+       std -> 1.5137711181640627
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 1
+0,59.30%,NAN,80.50%
+1,85.90%,NAN,91.27%
+2,91.53%,NAN,93.18%
+3,92.83%,NAN,94.40%
+4,93.68%,NAN,95.07%
+5,94.08%,NAN,94.98%
+6,94.25%,NAN,95.09%
+7,94.54%,NAN,95.47%
+
+[01_11_35_28] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.07576143091994995
+       base_lr -> 0.2
+       epsilon -> 0.5
+       delta -> 0.0011775148291071208
+       std -> 3.222754638671875
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 1
+0,24.35%,NAN,37.84%
+1,43.42%,NAN,45.86%
+2,48.45%,NAN,54.64%
+3,57.65%,NAN,55.39%
+4,58.87%,NAN,62.91%
+5,65.11%,NAN,64.66%
+6,63.87%,NAN,63.91%
+7,68.05%,NAN,68.17%
+8,69.22%,NAN,65.41%
+9,67.14%,NAN,64.16%
+
+[01_11_36_41] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.10464339646521563
+       base_lr -> 0.2
+       epsilon -> 0.5
+       delta -> 0.00014970842696039103
+       std -> 1.5137711181640627
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 1
+0,55.76%,NAN,68.29%
+1,70.80%,NAN,72.63%
+2,74.29%,NAN,74.89%
+3,76.87%,NAN,76.08%
+4,78.11%,NAN,76.84%
+5,78.67%,NAN,77.25%
+6,78.98%,NAN,77.64%
+7,79.28%,NAN,78.07%
+
+[01_11_37_31] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.07902228147306116
+       base_lr -> 0.2
+       epsilon -> 0.5
+       delta -> 0.0007105421828459393
+       std -> 2.7344736328125
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 1
+0,35.53%,NAN,51.22%
+1,61.24%,NAN,67.12%
+2,72.84%,NAN,73.14%
+3,77.97%,NAN,76.03%
+4,81.24%,NAN,78.18%
+5,82.89%,NAN,80.12%
+6,84.29%,NAN,82.06%
+7,85.48%,NAN,81.42%
+8,85.87%,NAN,81.81%
+9,85.67%,NAN,81.71%
+
+[01_11_38_02] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.10464339646521563
+       base_lr -> 0.2
+       epsilon -> 0.5
+       delta -> 0.00014970842696039103
+       std -> 1.5137711181640627
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 2
+0,52.73%,NAN,75.66%
+1,83.26%,NAN,88.05%
+2,90.33%,NAN,92.18%
+3,92.26%,NAN,92.79%
+4,93.22%,NAN,93.77%
+5,93.59%,NAN,94.08%
+6,93.88%,NAN,94.53%
+7,93.83%,NAN,94.78%
+
+[01_11_39_08] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.07576143091994995
+       base_lr -> 0.2
+       epsilon -> 0.5
+       delta -> 0.0011775148291071208
+       std -> 3.222754638671875
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 2
+0,25.46%,NAN,35.34%
+1,43.49%,NAN,48.62%
+2,44.54%,NAN,38.85%
+3,49.87%,NAN,52.63%
+4,54.26%,NAN,60.15%
+5,59.01%,NAN,57.64%
+6,59.79%,NAN,55.39%
+7,60.82%,NAN,59.15%
+8,62.96%,NAN,58.65%
+9,63.91%,NAN,63.41%
+
+[01_11_40_21] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.10464339646521563
+       base_lr -> 0.2
+       epsilon -> 0.5
+       delta -> 0.00014970842696039103
+       std -> 1.5137711181640627
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 2
+0,55.88%,NAN,69.21%
+1,71.78%,NAN,73.40%
+2,74.32%,NAN,74.26%
+3,75.25%,NAN,75.42%
+4,76.59%,NAN,76.15%
+5,77.37%,NAN,76.73%
+6,78.06%,NAN,77.14%
+7,78.12%,NAN,77.11%
+
+[01_11_41_13] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.07902228147306116
+       base_lr -> 0.2
+       epsilon -> 0.5
+       delta -> 0.0007105421828459393
+       std -> 2.7344736328125
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 2
+0,37.49%,NAN,51.37%
+1,59.17%,NAN,65.67%
+2,68.94%,NAN,70.85%
+3,78.59%,NAN,76.33%
+4,81.73%,NAN,77.48%
+5,84.59%,NAN,81.51%
+6,85.26%,NAN,81.86%
+7,85.96%,NAN,81.56%
+8,86.60%,NAN,82.46%
+9,86.90%,NAN,82.66%
+
+[01_11_41_44] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.10464339646521563
+       base_lr -> 0.2
+       epsilon -> 0.5
+       delta -> 0.00014970842696039103
+       std -> 1.5137711181640627
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 3
+0,50.26%,NAN,78.22%
+1,85.31%,NAN,90.28%
+2,90.80%,NAN,92.43%
+3,92.20%,NAN,93.26%
+4,92.79%,NAN,93.53%
+5,93.43%,NAN,93.96%
+6,93.54%,NAN,94.24%
+7,93.83%,NAN,94.57%
+
+[01_11_42_49] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.07576143091994995
+       base_lr -> 0.2
+       epsilon -> 0.5
+       delta -> 0.0011775148291071208
+       std -> 3.222754638671875
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 3
+0,24.85%,NAN,32.83%
+1,39.08%,NAN,48.37%
+2,47.35%,NAN,56.64%
+3,55.08%,NAN,57.14%
+4,56.81%,NAN,58.40%
+5,64.47%,NAN,62.41%
+6,65.63%,NAN,65.66%
+7,67.98%,NAN,65.41%
+8,68.53%,NAN,67.17%
+9,70.27%,NAN,66.92%
+
+[01_11_44_02] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.10464339646521563
+       base_lr -> 0.2
+       epsilon -> 0.5
+       delta -> 0.00014970842696039103
+       std -> 1.5137711181640627
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 3
+0,56.56%,NAN,70.14%
+1,72.22%,NAN,72.98%
+2,74.44%,NAN,74.39%
+3,75.78%,NAN,75.64%
+4,76.79%,NAN,76.61%
+5,77.66%,NAN,77.14%
+6,77.90%,NAN,77.69%
+7,78.48%,NAN,77.27%
+
+[01_11_44_53] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.07902228147306116
+       base_lr -> 0.2
+       epsilon -> 0.5
+       delta -> 0.0007105421828459393
+       std -> 2.7344736328125
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 3
+0,37.29%,NAN,55.16%
+1,64.79%,NAN,71.70%
+2,74.59%,NAN,75.44%
+3,80.94%,NAN,78.33%
+4,82.26%,NAN,78.87%
+5,84.15%,NAN,80.42%
+6,84.96%,NAN,81.42%
+7,86.36%,NAN,81.42%
+8,86.80%,NAN,81.96%
+9,87.35%,NAN,83.16%
+
+[01_11_45_25] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.06238522759989988
+       base_lr -> 0.2
+       epsilon -> 0.25
+       delta -> 0.00014970842696039103
+       std -> 2.53916123046875
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 1
+0,47.14%,NAN,66.57%
+1,74.40%,NAN,82.34%
+2,84.91%,NAN,88.22%
+3,88.66%,NAN,91.29%
+4,91.24%,NAN,92.59%
+5,91.85%,NAN,92.88%
+6,92.33%,NAN,93.18%
+7,92.67%,NAN,93.88%
+
+[01_11_46_29] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.044645697908658626
+       base_lr -> 0.2
+       epsilon -> 0.25
+       delta -> 0.0011775148291071208
+       std -> 5.4688472656250005
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 1
+0,18.66%,NAN,31.08%
+1,31.53%,NAN,28.32%
+2,38.80%,NAN,50.63%
+3,52.82%,NAN,50.63%
+4,51.47%,NAN,48.87%
+5,55.06%,NAN,52.88%
+6,57.35%,NAN,57.14%
+7,60.90%,NAN,59.40%
+8,58.42%,NAN,44.36%
+9,55.00%,NAN,52.88%
+
+[01_11_47_41] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.06238522759989988
+       base_lr -> 0.2
+       epsilon -> 0.25
+       delta -> 0.00014970842696039103
+       std -> 2.53916123046875
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 1
+0,47.30%,NAN,62.70%
+1,67.55%,NAN,69.49%
+2,70.88%,NAN,71.80%
+3,73.54%,NAN,73.83%
+4,75.18%,NAN,74.31%
+5,75.91%,NAN,74.90%
+6,75.89%,NAN,74.97%
+7,76.25%,NAN,75.36%
+
+[01_11_48_32] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.04609703326493199
+       base_lr -> 0.2
+       epsilon -> 0.25
+       delta -> 0.0007105421828459393
+       std -> 4.68759765625
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 1
+0,26.09%,NAN,42.20%
+1,50.56%,NAN,56.85%
+2,60.81%,NAN,61.04%
+3,66.12%,NAN,66.67%
+4,70.85%,NAN,68.96%
+5,73.82%,NAN,71.95%
+6,76.68%,NAN,74.84%
+7,78.10%,NAN,75.14%
+8,78.55%,NAN,75.59%
+9,79.04%,NAN,75.78%
+
+[01_11_49_06] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.06238522759989988
+       base_lr -> 0.2
+       epsilon -> 0.25
+       delta -> 0.00014970842696039103
+       std -> 2.53916123046875
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 2
+0,41.81%,NAN,61.72%
+1,72.12%,NAN,77.07%
+2,82.09%,NAN,86.22%
+3,87.15%,NAN,88.56%
+4,89.65%,NAN,90.72%
+5,90.85%,NAN,91.73%
+6,91.51%,NAN,92.35%
+7,91.90%,NAN,92.80%
+
+[01_11_50_15] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.044645697908658626
+       base_lr -> 0.2
+       epsilon -> 0.25
+       delta -> 0.0011775148291071208
+       std -> 5.4688472656250005
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 2
+0,20.90%,NAN,28.07%
+1,36.30%,NAN,41.35%
+2,38.40%,NAN,34.09%
+3,39.18%,NAN,37.84%
+4,45.29%,NAN,49.62%
+5,49.20%,NAN,48.12%
+6,50.48%,NAN,52.38%
+7,53.17%,NAN,52.13%
+8,53.91%,NAN,54.89%
+9,52.44%,NAN,55.14%
+
+[01_11_51_27] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.06238522759989988
+       base_lr -> 0.2
+       epsilon -> 0.25
+       delta -> 0.00014970842696039103
+       std -> 2.53916123046875
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 2
+0,47.74%,NAN,64.62%
+1,67.53%,NAN,69.77%
+2,70.88%,NAN,71.47%
+3,72.00%,NAN,72.70%
+4,73.26%,NAN,73.15%
+5,74.38%,NAN,74.32%
+6,74.93%,NAN,74.69%
+7,75.16%,NAN,74.62%
+
+[01_11_52_18] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.04609703326493199
+       base_lr -> 0.2
+       epsilon -> 0.25
+       delta -> 0.0007105421828459393
+       std -> 4.68759765625
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 2
+0,30.01%,NAN,42.80%
+1,48.26%,NAN,52.82%
+2,54.61%,NAN,55.16%
+3,63.20%,NAN,63.63%
+4,68.31%,NAN,65.32%
+5,71.82%,NAN,71.55%
+6,75.61%,NAN,75.14%
+7,78.24%,NAN,75.39%
+8,77.93%,NAN,75.54%
+9,78.22%,NAN,75.73%
+
+[01_11_52_49] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.06238522759989988
+       base_lr -> 0.2
+       epsilon -> 0.25
+       delta -> 0.00014970842696039103
+       std -> 2.53916123046875
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 3
+0,37.43%,NAN,58.49%
+1,71.48%,NAN,82.14%
+2,84.95%,NAN,88.33%
+3,88.36%,NAN,90.09%
+4,89.99%,NAN,91.01%
+5,90.90%,NAN,91.51%
+6,91.21%,NAN,91.82%
+7,91.42%,NAN,92.44%
+
+[01_11_53_55] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.044645697908658626
+       base_lr -> 0.2
+       epsilon -> 0.25
+       delta -> 0.0011775148291071208
+       std -> 5.4688472656250005
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 3
+0,19.75%,NAN,24.56%
+1,31.32%,NAN,35.59%
+2,34.98%,NAN,34.84%
+3,37.29%,NAN,35.09%
+4,40.63%,NAN,39.60%
+5,47.21%,NAN,54.39%
+6,48.61%,NAN,51.63%
+7,50.48%,NAN,52.13%
+8,54.41%,NAN,55.89%
+9,56.07%,NAN,54.89%
+
+[01_11_55_07] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.06238522759989988
+       base_lr -> 0.2
+       epsilon -> 0.25
+       delta -> 0.00014970842696039103
+       std -> 2.53916123046875
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 3
+0,47.41%,NAN,63.24%
+1,67.54%,NAN,69.20%
+2,71.04%,NAN,70.74%
+3,72.58%,NAN,72.60%
+4,73.57%,NAN,73.17%
+5,74.54%,NAN,74.01%
+6,74.99%,NAN,75.24%
+7,75.53%,NAN,74.60%
+
+[01_11_55_58] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.04609703326493199
+       base_lr -> 0.2
+       epsilon -> 0.25
+       delta -> 0.0007105421828459393
+       std -> 4.68759765625
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 3
+0,28.59%,NAN,45.24%
+1,53.44%,NAN,60.39%
+2,62.52%,NAN,66.17%
+3,69.92%,NAN,71.85%
+4,73.41%,NAN,71.30%
+5,75.81%,NAN,72.80%
+6,76.45%,NAN,73.69%
+7,79.10%,NAN,74.99%
+8,80.36%,NAN,76.28%
+9,80.76%,NAN,78.23%
+
+[01_11_56_30] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.033792608259463355
+       base_lr -> 0.2
+       epsilon -> 0.125
+       delta -> 0.00014970842696039103
+       std -> 4.68759765625
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 1
+0,36.46%,NAN,52.56%
+1,56.82%,NAN,65.92%
+2,69.81%,NAN,73.70%
+3,75.27%,NAN,80.07%
+4,82.04%,NAN,84.69%
+5,84.99%,NAN,86.91%
+6,86.76%,NAN,88.52%
+7,88.05%,NAN,89.44%
+
+[01_11_57_36] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.0260435222033576
+       base_lr -> 0.2
+       epsilon -> 0.125
+       delta -> 0.0011775148291071208
+       std -> 9.375095312500001
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 1
+0,16.16%,NAN,17.79%
+1,24.01%,NAN,23.31%
+2,32.39%,NAN,37.84%
+3,42.86%,NAN,40.35%
+4,42.56%,NAN,38.85%
+5,39.64%,NAN,40.60%
+6,44.31%,NAN,48.37%
+7,49.45%,NAN,49.87%
+8,46.32%,NAN,39.60%
+9,46.81%,NAN,47.12%
+
+[01_11_58_48] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.033792608259463355
+       base_lr -> 0.2
+       epsilon -> 0.125
+       delta -> 0.00014970842696039103
+       std -> 4.68759765625
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 1
+0,35.34%,NAN,50.69%
+1,59.18%,NAN,62.69%
+2,66.18%,NAN,67.45%
+3,68.37%,NAN,69.04%
+4,70.03%,NAN,70.09%
+5,71.13%,NAN,70.26%
+6,71.18%,NAN,70.63%
+7,71.35%,NAN,70.69%
+
+[01_11_59_38] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.02514408014263023
+       base_lr -> 0.2
+       epsilon -> 0.125
+       delta -> 0.0007105421828459393
+       std -> 8.593845703125002
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 1
+0,18.53%,NAN,24.46%
+1,29.82%,NAN,38.37%
+2,42.67%,NAN,46.69%
+3,50.28%,NAN,51.52%
+4,54.34%,NAN,53.91%
+5,57.73%,NAN,55.75%
+6,60.65%,NAN,58.74%
+7,61.69%,NAN,59.69%
+8,63.29%,NAN,62.23%
+9,64.73%,NAN,63.23%
+
+[01_12_00_09] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.033792608259463355
+       base_lr -> 0.2
+       epsilon -> 0.125
+       delta -> 0.00014970842696039103
+       std -> 4.68759765625
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 2
+0,30.60%,NAN,43.94%
+1,51.88%,NAN,59.02%
+2,64.95%,NAN,73.00%
+3,75.14%,NAN,77.68%
+4,78.68%,NAN,81.07%
+5,83.21%,NAN,84.03%
+6,85.12%,NAN,86.76%
+7,86.10%,NAN,86.96%
+
+[01_12_01_17] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.0260435222033576
+       base_lr -> 0.2
+       epsilon -> 0.125
+       delta -> 0.0011775148291071208
+       std -> 9.375095312500001
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 2
+0,18.40%,NAN,20.30%
+1,25.90%,NAN,27.07%
+2,29.73%,NAN,33.83%
+3,36.13%,NAN,34.34%
+4,38.97%,NAN,43.11%
+5,40.97%,NAN,43.11%
+6,43.30%,NAN,47.87%
+7,50.63%,NAN,47.62%
+8,49.05%,NAN,53.38%
+9,50.00%,NAN,48.37%
+
+[01_12_02_29] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.033792608259463355
+       base_lr -> 0.2
+       epsilon -> 0.125
+       delta -> 0.00014970842696039103
+       std -> 4.68759765625
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 2
+0,36.18%,NAN,53.86%
+1,60.13%,NAN,63.87%
+2,64.76%,NAN,66.04%
+3,67.00%,NAN,68.01%
+4,68.32%,NAN,68.89%
+5,69.36%,NAN,69.69%
+6,69.85%,NAN,70.06%
+7,69.99%,NAN,69.74%
+
+[01_12_03_20] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.02514408014263023
+       base_lr -> 0.2
+       epsilon -> 0.125
+       delta -> 0.0007105421828459393
+       std -> 8.593845703125002
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 2
+0,21.40%,NAN,26.06%
+1,37.91%,NAN,43.45%
+2,43.72%,NAN,44.25%
+3,46.02%,NAN,49.23%
+4,49.19%,NAN,49.43%
+5,53.53%,NAN,53.31%
+6,56.85%,NAN,56.10%
+7,61.40%,NAN,59.39%
+8,62.18%,NAN,61.53%
+9,62.88%,NAN,61.34%
+
+[01_12_03_53] ==> new recording
+setup:
+       model size -> 21802
+       EPOCH -> 8
+       lr -> 0.033792608259463355
+       base_lr -> 0.2
+       epsilon -> 0.125
+       delta -> 0.00014970842696039103
+       std -> 4.68759765625
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> mnist
+       seed -> 3
+0,27.70%,NAN,41.71%
+1,48.52%,NAN,58.64%
+2,64.71%,NAN,74.04%
+3,76.73%,NAN,80.60%
+4,80.73%,NAN,82.76%
+5,83.87%,NAN,86.27%
+6,85.79%,NAN,86.85%
+7,86.07%,NAN,87.53%
+
+[01_12_04_59] ==> new recording
+setup:
+       model size -> 33736
+       EPOCH -> 10
+       lr -> 0.0260435222033576
+       base_lr -> 0.2
+       epsilon -> 0.125
+       delta -> 0.0011775148291071208
+       std -> 9.375095312500001
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.034782608695652174
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 16
+       pub_data_batch_size -> 8
+       non_iid -> False
+       train_data_len -> 4600
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> colorectal
+       seed -> 3
+0,17.44%,NAN,17.54%
+1,23.09%,NAN,23.06%
+2,25.32%,NAN,24.81%
+3,27.44%,NAN,26.82%
+4,31.58%,NAN,31.33%
+5,37.75%,NAN,34.59%
+6,37.27%,NAN,34.59%
+7,35.00%,NAN,32.83%
+8,35.95%,NAN,44.11%
+9,37.69%,NAN,32.58%
+
+[01_12_06_11] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 8
+       lr -> 0.033792608259463355
+       base_lr -> 0.2
+       epsilon -> 0.125
+       delta -> 0.00014970842696039103
+       std -> 4.68759765625
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.005334222370395066
+       num_workers -> 25
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 59990
+       train_batch_size -> 320
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> fashion
+       seed -> 3
+0,34.95%,NAN,51.69%
+1,57.05%,NAN,62.13%
+2,64.65%,NAN,64.61%
+3,66.73%,NAN,66.41%
+4,68.27%,NAN,68.33%
+5,69.55%,NAN,69.36%
+6,70.29%,NAN,70.18%
+7,70.91%,NAN,70.31%
+
+[01_12_07_04] ==> new recording
+setup:
+       model size -> 25450
+       EPOCH -> 10
+       lr -> 0.02514408014263023
+       base_lr -> 0.2
+       epsilon -> 0.125
+       delta -> 0.0007105421828459393
+       std -> 8.593845703125002
+       is_DP_private -> True
+       is_anti_byzantine_aggregation -> False
+       is_central_DP_BR -> False
+       is_local_DP_BR -> True
+       sampling_type -> have_pub_root
+       fix_worker_data_distributing_non_iid -> True
+       attacker -> there is no attack
+       mal_worker_portion -> 0.2
+       start_attack_ite -> 0
+       start_attack_percent -> 0.0
+       sampling_rate -> 0.021975003433594285
+       num_workers -> 12
+       local_batch_size -> 16
+       pub_data_size -> 20
+       pub_data_batch_size -> 10
+       non_iid -> False
+       train_data_len -> 7281
+       train_batch_size -> 160
+       simulator -> <class 'BRP.FL_simulator'>
+       the_worker_momentum -> 0.1
+       dataset -> usps
+       seed -> 3
+0,20.71%,NAN,28.50%
+1,36.40%,NAN,43.40%
+2,44.08%,NAN,51.12%
+3,52.58%,NAN,57.55%
+4,56.46%,NAN,57.00%
+5,59.47%,NAN,59.29%
+6,60.80%,NAN,60.64%
+7,62.65%,NAN,63.13%
+8,65.34%,NAN,63.33%
+9,65.01%,NAN,67.12%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
